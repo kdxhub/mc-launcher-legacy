@@ -21,11 +21,13 @@ All files were obtained from the official distribution site, before the authors 
 > **Additional Note:**
 > Some these archives are INFECTED by people with ulterior motives. By running the infected binaries, your computer would be exposed to great threat.
 > Also, there are other people charge of the sources, though they did before the incident. However, whatever they wanna, all these launchers are completely FREE to download.
+> Last, due to unknown OTA or other factors, the download services might be disabled in the archived versions.
 
-小编还在收集中……
+小编还在收集中，待理清后立马更新……
 
-> **提示：**
-> 一旦收集完成，我们即刻更新
+> **辟谣：**
+> 基于已有信息，以下可以确认：
+> * 网易《我的世界》和库洛《鸣潮》与本次事件没有任何关联，所谓“应用商店搜不到”只是因为没有(停止运营)渠道服，故应用商店不提供下载
 
 ## Archives
 
@@ -44,18 +46,18 @@ All files were obtained from the official distribution site, before the authors 
 
 | Version | Platform | SHA256 |
 |:-:|:-:|:-:|
-| [Release 2.7.1]() | Android arm64 | `3916d7bee0ffc5a4fe75035f5728f946511b212c7f38c9d7a456be3ac7f35780` |
-| [Release 2.7.1]() | Android arm32 | `838ee58536c9714ff7b5465a85fc8eaf9687b805cf05ac377ecfe81b670f40c7` |
-| [Release 2.7.1]() | Android amd64 | `dead9d7f8353ffe1c2c2ab2418d5b6f2cfe3333fcb0c47d423b9063885d2409e` |
-| [Release 2.7.1]() | Android amd32 | `f1dfa55a0a102a3fc3531d237ba18804048dd6961a232051c76ca67e68638283` |
-| [Release 2.7.1]() | Android | `423f25320b797834de72a5b911a585db33e71f1cb978cd815a0e59befa4c5191` |
+| [Release 2.7.1](https://github.com/kdxhub/mc-launcher-legacy/releases/download/zalith/ZalithLauncher-2.7.1-arm64-v8a.apk) | Android arm64 | `3916d7bee0ffc5a4fe75035f5728f946511b212c7f38c9d7a456be3ac7f35780` |
+| [Release 2.7.1](https://github.com/kdxhub/mc-launcher-legacy/releases/download/zalith/ZalithLauncher-2.7.1-armeabi-v7a.1.apk) | Android arm32 | `838ee58536c9714ff7b5465a85fc8eaf9687b805cf05ac377ecfe81b670f40c7` |
+| [Release 2.7.1](https://github.com/kdxhub/mc-launcher-legacy/releases/download/zalith/ZalithLauncher-2.7.1-x86_64.1.apk) | Android amd64 | `dead9d7f8353ffe1c2c2ab2418d5b6f2cfe3333fcb0c47d423b9063885d2409e` |
+| [Release 2.7.1](https://github.com/kdxhub/mc-launcher-legacy/releases/download/zalith/ZalithLauncher-2.7.1-x86.1.apk) | Android amd32 | `f1dfa55a0a102a3fc3531d237ba18804048dd6961a232051c76ca67e68638283` |
+| [Release 2.7.1](https://github.com/kdxhub/mc-launcher-legacy/releases/download/zalith/ZalithLauncher-2.7.1.1.apk) | Android | `423f25320b797834de72a5b911a585db33e71f1cb978cd815a0e59befa4c5191` |
 
 ### PCL Community Edition
 
 | Version | Platform | SHA256 |
 |:-:|:-:|:-:|
-| [Release 2.15.0](./pcl-ce/ce-2.15.0-arm64.exe) | Windows arm64 | `539f4e90b65fca74196e69e715698c263a752730c1fb7617f858a3768ede6cf8` |
-| [Release 2.15.0](./pcl-ce/ce-2.15.0-arm64.exe) | Windows amd64 | `39e0f0613902241d448f901d4be9bf2da2f366ed2a5e0a6518a413de4bfbe992` |
+| [Release 2.15.0](https://github.com/kdxhub/mc-launcher-legacy/releases/download/pclce/ce-2.15.0-arm64.exe) | Windows arm64 | `539f4e90b65fca74196e69e715698c263a752730c1fb7617f858a3768ede6cf8` |
+| [Release 2.15.0](https://github.com/kdxhub/mc-launcher-legacy/releases/download/pclce/ce-2.15.0-amd64.exe) | Windows amd64 | `39e0f0613902241d448f901d4be9bf2da2f366ed2a5e0a6518a413de4bfbe992` |
 
 ### Hello! Minecraft Launcher
 
@@ -78,12 +80,12 @@ All files were obtained from the official distribution site, before the authors 
 
 | Version | Platform | SHA256 |
 |:-:|:-:|:-:|
-| [Release 1.3.1.1]() | Android arm64 | `2de73e154e38804431cf937c7a6135bd0184f6606fc359245747b0158251ac7f` |
-| [Release 1.3.4.1]() | Android | `e2406bca8cade81a2e2724540b16144757edc0213354ef503a7e370fb6a20b1b` |
-| [Release 1.3.4.1]() | Android arm64 | `003b82bc4809bd65b224cdaf005df39e236b23026c3b7ab16ec5def7ee552ec6` |
-| [Release 1.3.4.1]() | Android arm32 | `ec44f3f5b6a3e54260104b77f58190db6904b13aed07a99e7efb3bd0ab32b1c0` |
-| [Release 1.3.4.1]() | Android amd64 | `c08aafea8f5e9235a07c0a2401f481bcd4b91b07761188baf557b49c58f3f4a6` |
-| [Release 1.3.4.1]() | Android amd32 | `2b1170917f83d9917bd32e9c622a6f1f89ac44bc99f3b3a1af6bef2aa90fd741` |
+| [Release 1.3.1.1](https://github.com/kdxhub/mc-launcher-legacy/releases/download/fold-minecraft-launcher/FCL-release-1.3.1.1-arm64-v8a.apk) | Android arm64 | `2de73e154e38804431cf937c7a6135bd0184f6606fc359245747b0158251ac7f` |
+| [Release 1.3.4.1](https://github.com/kdxhub/mc-launcher-legacy/releases/download/fold-minecraft-launcher/FCL-release-1.3.4.1-all.apk) | Android | `e2406bca8cade81a2e2724540b16144757edc0213354ef503a7e370fb6a20b1b` |
+| [Release 1.3.4.1](https://github.com/kdxhub/mc-launcher-legacy/releases/download/fold-minecraft-launcher/FCL-release-1.3.4.1-arm64-v8a.apk) | Android arm64 | `003b82bc4809bd65b224cdaf005df39e236b23026c3b7ab16ec5def7ee552ec6` |
+| [Release 1.3.4.1](FCL-release-1.3.4.1-armeabi-v7a.apk) | Android arm32 | `ec44f3f5b6a3e54260104b77f58190db6904b13aed07a99e7efb3bd0ab32b1c0` |
+| [Release 1.3.4.1](https://github.com/kdxhub/mc-launcher-legacy/releases/download/fold-minecraft-launcher/FCL-release-1.3.4.1-x86_64.apk) | Android amd64 | `c08aafea8f5e9235a07c0a2401f481bcd4b91b07761188baf557b49c58f3f4a6` |
+| [Release 1.3.4.1](https://github.com/kdxhub/mc-launcher-legacy/releases/download/fold-minecraft-launcher/FCL-release-1.3.4.1-x86.apk) | Android amd32 | `2b1170917f83d9917bd32e9c622a6f1f89ac44bc99f3b3a1af6bef2aa90fd741` |
 
 ## License
 This repo including files insides is ONLY USED FOR PUBLIC ARCHIVES, and ALL COPYRIGHT IS STILL RESERVED BY THEIR ORIGINAL AUTHOR.
