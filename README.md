@@ -20,7 +20,7 @@ All files were obtained from the official distribution site, before the authors 
 
 > **Additional Note:**
 > Some these archives are INFECTED by people with ulterior motives. By running the infected binaries, your computer would be exposed to great threat.
-> Also, there are other people charge of the sources, though they did before the incident. However, whatever they wanna, all these launchers are completely FREE to download.
+> Also, there are other people charge for the sources, though they did before the incident. However, whatever they wanna, all these launchers are completely FREE to download.
 > Last, due to unknown OTA or other factors, the download services might be disabled in the archived versions.
 
 小编还在收集中，待理清后立马更新……
